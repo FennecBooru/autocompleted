@@ -46,7 +46,7 @@ mod models {
         pub id: i64,
         pub name: String,
         pub post_count: i32,
-        pub category: i16,
+        pub category_id: i16,
         pub antecedent_name: Option<String>,
     }
 }

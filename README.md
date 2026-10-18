@@ -32,7 +32,7 @@ GET /?search[name_matches]=cani
 **Response:**
 ```json
 [
-  {"id": 1, "name": "canine", "post_count": 12345, "category": 0, "antecedent_name": null}
+  {"id": 1, "name": "canine", "post_count": 12345, "category_id": 0, "antecedent_name": null}
 ]
 ```
 
