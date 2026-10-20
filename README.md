@@ -1,6 +1,6 @@
 # autocompleted
 
-A tag autocomplete API service for GayFurCity, written in Rust using [actix-web](https://actix.rs/). It queries a PostgreSQL database for matching tags and caches results in memory. Used for [GayFurCity](https://github.com/GayFurCity/GayFurCity).
+A tag autocomplete API service for Fennec, written in Rust using [actix-web](https://actix.rs/). It queries a PostgreSQL database for matching tags and caches results in memory. Used for [GayFurCity](https://github.com/GayFurCity/GayFurCity).
 
 ## Endpoints
 
